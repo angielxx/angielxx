@@ -14,6 +14,6 @@
 <br>
 <br>
 <div align="center">
-  <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=angielxx&show_icons=true&theme=radical">
-  <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angielxx&layout=compact&theme=radical">
+  <img style="height: 100px;" src="https://github-readme-stats.vercel.app/api?username=angielxx&show_icons=true&theme=radical">
+  <img style="height: 100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angielxx&layout=compact&theme=radical">
 </div>
