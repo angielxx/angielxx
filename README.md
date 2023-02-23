@@ -3,8 +3,8 @@
 <img src="https://img.shields.io/badge/angielxx94@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <a href="https://velog.io/@94applekoo"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 - 🎨 디자인 시스템과 UI/UX에 관심이 많은 웹 프론트엔드 엔지니어입니다.
-- 🚀 하고 싶은 것도, 배우고 싶은 것도 많습니다.
-- 😎 꾸준함의 힘을 믿습니다.
+- 🚀 꾸준함의 힘을 믿습니다.
+- 💫 기술 앞에서는 항상 겸손하자
 
 #### 언어 및 도구
 
