@@ -1,6 +1,6 @@
 
 ### 👏 만나서 반갑습니다
-<img src="https://img.shields.io/badge/angielxx94@gmail.com-EA4335?style=flat-square"/> <a href="https://eunjee.vercel.app/"> <img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square"/>
+<img src="https://img.shields.io/badge/angielxx94@gmail.com-EA4335?style=flat-square"/> <a href="https://eun-jee.com/"> <img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square"/>
 </a>
 
 - 🎨 디자인 시스템과 UI/UX에 관심이 많은 웹 프론트엔드 엔지니어입니다.
