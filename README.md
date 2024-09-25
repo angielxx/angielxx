@@ -7,6 +7,11 @@
 - 🚀 꾸준함의 힘을 믿습니다.
 - 💭 기술 앞에서는 항상 겸손하자
 
+#### 기술 관련 글
+
+- [브라우저 호환성을 고려한 이미지 최적화 (feat. webP, avif)](https://eun-jee.vercel.app/post/front-end/modern-image-format/)
+- [CRA에서 Vite로 마이그레이션하기 (feat. 배포 시간 줄이기)](https://eun-jee.vercel.app/post/front-end/CRA_to_Vite/)
+- [국제화를 위한 텍스트 키 관리 자동화하기 (feat. react-i18next, google spreadsheet)](https://eun-jee.vercel.app/post/front-end/internationalizaion-automate-script/)
 
 #### 언어 및 도구
 
