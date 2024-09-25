@@ -3,7 +3,9 @@
 <img src="https://img.shields.io/badge/angielxx94@gmail.com-EA4335?style=flat-square"/> <a href="https://eun-jee.com/"> <img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square"/>
 </a>
 
-- 🎨 디자인 시스템과 UI/UX에 관심이 많은 웹 프론트엔드 엔지니어입니다.
+> 안녕하세요. 웹 프론트엔드 기술을 적극적으로 활용하여 비즈니스적 임팩트를 내고 싶은 개발자, 이은지입니다.
+
+- ⚙️ 성능 최적화와 개발 환경 개선에 관심이 많습니다.
 - 🚀 꾸준함의 힘을 믿습니다.
 - 💭 기술 앞에서는 항상 겸손하자
 
