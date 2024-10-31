@@ -1,22 +1,25 @@
-
-### 👏 만나서 반갑습니다
+### 👋 Hi there, I'm Eunji!
 <img src="https://img.shields.io/badge/angielxx94@gmail.com-EA4335?style=flat-square"/> <a href="https://eun-jee.com/"> <img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square"/>
 </a>
 
-> 안녕하세요. 웹 프론트엔드 기술을 적극적으로 활용하여 비즈니스적 임팩트를 내고 싶은 개발자, 이은지입니다.
+> Frontend Engineer passionate about creating delightful user experiences through technical excellence and thoughtful design.
 
-- ⚙️ 성능 최적화와 개발 환경 개선에 관심이 많습니다.
-- 🚀 꾸준함의 힘을 믿습니다.
-- 💭 기술 앞에서는 항상 겸손하자
+I'm currently building B2B solutions at STCLab, where I focus on:
+- ⚡ Performance optimization and architectural improvements
+- 🎨 Creating seamless user experiences
+- 🛠️ Enhancing development environments
 
-#### 기술 관련 글
+### Recent Technical Writing
+- [Image Optimization for Browser Compatibility (feat. webP, avif)](https://eun-jee.vercel.app/post/front-end/modern-image-format/)
+- [Migrating from CRA to Vite: Reducing Build Time](https://eun-jee.vercel.app/post/front-end/CRA_to_Vite/)
+- [Automating i18n Text Key Management with React and Google Spreadsheet](https://eun-jee.vercel.app/post/front-end/internationalizaion-automate-script/)
 
-- [브라우저 호환성을 고려한 이미지 최적화 (feat. webP, avif)](https://eun-jee.vercel.app/post/front-end/modern-image-format/)
-- [CRA에서 Vite로 마이그레이션하기 (feat. 배포 시간 줄이기)](https://eun-jee.vercel.app/post/front-end/CRA_to_Vite/)
-- [국제화를 위한 텍스트 키 관리 자동화하기 (feat. react-i18next, google spreadsheet)](https://eun-jee.vercel.app/post/front-end/internationalizaion-automate-script/)
+### Core Principles
+- 📈 Driven by measurable impact
+- 🔄 Continuous learning and improvement
+- 🤝 Open collaboration and knowledge sharing
 
-#### 언어 및 도구
-
+### Tech Stack
 ![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=%white)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=black)
@@ -29,13 +32,8 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-<br/>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-<br>
-<br>
 <div align="center">
-  <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api?username=angielxx&show_icons=true&theme=radical">
-  <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angielxx&layout=compact&theme=radical">
+ <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api?username=angielxx&show_icons=true&theme=radical">
+ <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angielxx&layout=compact&theme=radical">
 </div>
