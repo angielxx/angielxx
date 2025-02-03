@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Eunji!
+### 👋 Hi there, I'm Eunjee!
 <img src="https://img.shields.io/badge/angielxx94@gmail.com-EA4335?style=flat-square"/> <a href="https://eun-jee.com/"> <img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square"/>
 </a>
 
