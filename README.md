@@ -1,5 +1,5 @@
 ### 👋 Hi there, I'm Eunjee!
-<img src="https://img.shields.io/badge/angielxx94@gmail.com-EA4335?style=flat-square"/> <a href="https://eun-jee.com/"> <img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square"/>
+<img src="https://img.shields.io/badge/angielxx94@gmail.com-EA4335?style=flat-square"/> <a href="https://eun-jee.vercel.app/"> <img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square"/>
 </a>
 
 > Frontend Engineer passionate about creating delightful user experiences through technical excellence and thoughtful design.
