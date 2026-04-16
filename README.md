@@ -43,7 +43,7 @@
 **Frontend Engineer / FE Lead** @ [STCLab](https://www.stclab.com)
 `2023.10 – present`
 
-트래픽 관리 B2B 솔루션 기업. 국내 동종 시장 점유율 97%.
+트래픽 관리 B2B 솔루션 기업으로, 국내 동종 시장 점유율 97%를 보유하고 있습니다. 주로 고객이 서비스를 제어하기 위해 사용하는 콘솔의 개발 및 유지보수를 담당했습니다.
 
 - **API NetFUNNEL 콘솔 리빌드 FE 리드** `2025.12 – present`
   - On-premise API 트래픽 제어 솔루션 레거시 콘솔 전면 재구축
