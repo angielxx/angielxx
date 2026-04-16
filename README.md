@@ -40,7 +40,7 @@
 
 ### 💼 Experience
 
-**Frontend Engineer / FE Lead** @ [STCLab](https://www.stclab.com)
+**Frontend Engineer** @ [STCLab](https://www.stclab.com)
 `2023.10 – present`
 
 트래픽 관리 B2B 솔루션 기업으로, 국내 동종 시장 점유율 97%를 보유하고 있습니다. <br/>
