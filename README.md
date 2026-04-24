@@ -77,7 +77,6 @@
 <!-- 블로그 RSS 연동 또는 수동 업데이트 -->
 - [『함께 자라기』를 읽고](https://angielee-dev.vercel.app/blog/growing-up-together-review)
 - [항해 플러스 프론트엔드 6기 최종 회고](https://angielee-dev.vercel.app/blog/hanghaePlus-final-retrospective)
-- [CRA에서 Vite로 마이그레이션하기](https://angielee-dev.vercel.app/blog/CRA_to_Vite)
 
 <div align="center">
 
